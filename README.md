@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1NS1K&theme=shadow_blue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rat2Race&theme=shadow_blue&show_icons=true)
